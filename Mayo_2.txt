@@ -1,0 +1,2 @@
+Usar GUI (ver si VSC puede) para lograr hacer commits con RStudio
+Usar Google Colab también
